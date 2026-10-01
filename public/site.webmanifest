@@ -1,0 +1,21 @@
+{
+  "name": "Forever & Always - Untukmu, Sayangku",
+  "short_name": "Forever",
+  "description": "Website romantis untuk pasangan tercinta.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0a10",
+  "theme_color": "#1a0a10",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
